@@ -4,5 +4,9 @@
   "item.tutorialmod.varinium": "Varinium Ingot",
   "item.tutorialmod.raw_varinium": "Raw Varinium",
 
+  "block.tutorialmod.zircon_block": "Block of Zircon",
+  "block.tutorialmod.zircon_ore": "Zircon Ore",
+  "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
   "itemGroup.tutorialtab": "Tutorial Mod Tab"
 }
