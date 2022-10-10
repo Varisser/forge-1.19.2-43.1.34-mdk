@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.zircon": "Zircon",
   "item.tutorialmod.raw_zircon": "Raw Zircon",
+  "item.tutorialmod.varinium": "Varinium Ingot",
+  "item.tutorialmod.raw_varinium": "Raw Varinium",
 
-  "itemGroup.tutorialtab": "Zircon Tutorial Tab :)"
+  "itemGroup.tutorialtab": "Tutorial Mod Tab"
 }
