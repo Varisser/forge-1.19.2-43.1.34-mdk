@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 210,
+  "experience": 1,
+  "group": "varinium_ingot",
+  "ingredient": {
+    "item": "tutorialmod:raw_varinium"
+  },
+  "result": "tutorialmod:varinium"
+}

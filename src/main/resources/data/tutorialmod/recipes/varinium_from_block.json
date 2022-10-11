@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:varinium_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:varinium",
+    "count": 9
+  }
+}
