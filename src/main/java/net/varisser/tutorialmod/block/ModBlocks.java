@@ -30,6 +30,12 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),UniformInt.of(3,7)), ModCreativeModeTab.TUTORIAL_TAB);
     public static final RegistryObject<Block> DEEPSLATE_ZIRCON_ORE = registerBlock("deepslate_zircon_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),UniformInt.of(3,7)), ModCreativeModeTab.TUTORIAL_TAB);
+    public static final RegistryObject<Block> VARINIUM_BLOCK = registerBlock("varinium_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TUTORIAL_TAB);
+    public static final RegistryObject<Block> VARINIUM_ORE = registerBlock("varinium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),UniformInt.of(3,10)), ModCreativeModeTab.TUTORIAL_TAB);
+    public static final RegistryObject<Block> DEEPSLATE_VARINIUM_ORE = registerBlock("deepslate_varinium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops(),UniformInt.of(4,11)), ModCreativeModeTab.TUTORIAL_TAB);
 
 
 

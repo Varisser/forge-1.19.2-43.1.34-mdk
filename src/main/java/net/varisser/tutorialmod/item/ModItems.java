@@ -17,6 +17,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> RAW_ZIRCON = ITEMS.register("raw_zircon",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
+
     public static final RegistryObject<Item> VARINIUM = ITEMS.register("varinium",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));
 
