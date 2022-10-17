@@ -44,6 +44,6 @@ public class EightBallItem  extends Item {
         player.sendSystemMessage(Component.literal("your number is " + rn));
     }
     private int getRandomNumber(){
-        return RandomSource.createNewThreadLocalInstance().nextInt(1);
+        return RandomSource.createNewThreadLocalInstance().nextInt(10);
     }
 }

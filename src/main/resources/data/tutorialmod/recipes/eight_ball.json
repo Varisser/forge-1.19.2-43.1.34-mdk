@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#z#",
+    "###"
+
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:varinium"
+    },
+    "z": {
+      "item": "tutorialmod:zircon"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:eight_ball"
+  }
+}

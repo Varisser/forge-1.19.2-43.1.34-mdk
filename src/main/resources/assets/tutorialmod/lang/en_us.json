@@ -9,9 +9,12 @@
   "block.tutorialmod.zircon_block": "Block of Zircon",
   "block.tutorialmod.zircon_ore": "Zircon Ore",
   "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+
   "block.tutorialmod.varinium_block": "Block of Varinium",
   "block.tutorialmod.varinium_ore": "Varinium Ore",
   "block.tutorialmod.deepslate_varinium_ore": "Deepslate Varinium Ore",
+
+  "block.tutorialmod.jumpy_block": "Jumpy Block",
 
   "itemGroup.tutorialtab": "Tutorial Mod Tab"
 }

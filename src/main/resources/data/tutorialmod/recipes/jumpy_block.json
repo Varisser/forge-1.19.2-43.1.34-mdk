@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#z#",
+    "###"
+
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:varinium_block"
+    },
+    "z": {
+      "item": "tutorialmod:zircon_block"
+    }
+  },
+  "result": {
+    "count": 16,
+    "item": "tutorialmod:jumpy_block"
+  }
+}
