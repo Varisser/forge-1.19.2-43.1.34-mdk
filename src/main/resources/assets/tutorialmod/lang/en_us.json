@@ -6,6 +6,10 @@
 
   "item.tutorialmod.eight_ball": "Eight Ball",
 
+  "item.tutorialmod.blueberry": "Blueberry",
+  "item.tutorialmod.blueberry_seeds": "Blueberry Seeds",
+  "block.tutorialmod.blueberry_crop": "Blueberry Crop",
+
   "block.tutorialmod.zircon_block": "Block of Zircon",
   "block.tutorialmod.zircon_ore": "Zircon Ore",
   "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
