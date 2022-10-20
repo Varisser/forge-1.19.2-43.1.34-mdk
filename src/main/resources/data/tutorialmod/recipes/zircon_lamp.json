@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#g#",
+    "grg",
+    "#g#"
+
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:zircon"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:zircon_lamp"
+  }
+}

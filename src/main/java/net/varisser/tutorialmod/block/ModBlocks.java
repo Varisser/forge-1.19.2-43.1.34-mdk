@@ -14,6 +14,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.varisser.tutorialmod.TutorialMod;
+import net.varisser.tutorialmod.block.custom.ZirconLampBlock;
 import net.varisser.tutorialmod.block.custom.jumpy_block;
 import net.varisser.tutorialmod.item.ModCreativeModeTab;
 import net.varisser.tutorialmod.item.ModItems;
@@ -40,6 +41,8 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> JUMPY_BLOCK = registerBlock("jumpy_block",
             () -> new jumpy_block(BlockBehaviour.Properties.of(Material.STONE).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TUTORIAL_TAB);
+    public static final RegistryObject<Block> ZIRCON_LAMP = registerBlock("zircon_lamp",
+            () -> new ZirconLampBlock(BlockBehaviour.Properties.of(Material.GLASS).strength(3f).requiresCorrectToolForDrops().lightLevel(state -> state.getValue(ZirconLampBlock.LIT) ? 15 : 0)), ModCreativeModeTab.TUTORIAL_TAB);
 
 
 
